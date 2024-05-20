@@ -1,0 +1,68 @@
+wWWWwv increment                                         11個 12個で+1
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+2=y(121)         10個
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+4=y+2=}(125)     9個
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+8=}+2=^?(7f:127) 8個
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+16               7個
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+32               6個
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+64               5個
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+128              4個
+wWWwWWWwv 上の関数を2回よぶ。ダブリュー+256 一周         3個
+wWWWwWWWWWWWWwWWWWWWWWWWWWwv call +128 call +8 call +1   0
+wv 捨て行。行削除をすると以下のダブリューの数が変わってしまうため。
+wWWWwWWWWWwWWWWWWWWWwv スペース 0+32
+wWWwWWWWWWWWWWWWWWwv !
+wWWwWWWWWWWWWWWWwWWWWWWWWWWWWWWWwWWWWWWWWWWWWWWWWWwv ,
+wWWwWWWWWWWWWWWwWWWWWWWWWWWWWwWWWWWWWWWWWWWWWwv d
+wWWwWWWWWWWWWWWWWWWWWwv e
+wWWwWWWWWWWWWWWWWWWWwWWWWWWWWWWWWWWWWWWwWWWWWWWWWWWWWWWWWWWWwv l
+wWWwWWWWWWWWWWWWWWWWWWwWWWWWWWWWWWWWWWWWWWWwv o
+wWWwWWWWWWWWWWWWWWWWWWWwWWWWWWWWWWWWWWWWWWWWWwv r
+wWWWWWWWwWWWWWWWWWWWWWWWWWwWWWWWWWWWWWWWWWWWWWwWWWWWWWWWWWWWWWWWWWWWwv H
+Wwwwwwwwwwwwwwwwwwwwwwwwv Hの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwv eの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwv lの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv lの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv oの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv ,の関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv スペースの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv print ダブリュー
+WWWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv oの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv rの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv lの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv dの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwv dの関数を引数ダブリューで呼ぶ
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWwv print 上の結果
+
+
+
+
+0 : nil
+
+Hello,*orld!
+32  :  
+33  : !
+44  : ,
+100 : d
+101 : e
+108 : l
+111 : o
+114 : r
+119 : *
+72 : H
+
+119-32=87
+119-33=86
+256-119=137 +137すると0になる
++33すると!になる
+137=128+8+1
